@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## 2007010020田玉露
 
-You can use the [editor on GitHub](https://github.com/tylgoon/tylgoon.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎来到田玉露的个人主页~
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人简介
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我叫田玉露，性别女，出生于2003年2月14日，来自湖南怀化，就读于法学专业2001班，是一名共青团员。我的电子邮件是2831491375@qq.com            
 
 ```markdown
-Syntax highlighted code block
+技能总结：英语四级542分，获得湖南省学生军事技能训练教练员证
 
-# Header 1
-## Header 2
-### Header 3
+兴趣爱好：唱歌、摄影、跳舞、手工
 
-- Bulleted
-- List
+教育背景：大学本科
 
-1. Numbered
-2. List
+主修课程：宪法学、法理学、中国法制史、刑法、民法、物权法、国际法、经济法等
 
-**Bold** and _Italic_ and `Code` text
+获奖情况：2020年9月荣获军事训练先进个人奖项
+         2021年10月荣获防控疫情优秀志愿者奖项
+         2021年11月荣获军事训练优秀教官奖项
 
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tylgoon/tylgoon.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 自我评价
 
-### Support or Contact
+我是一个乐观，内心世界丰富，经常自我矛盾的人。我的优点是遇事不往心里去，但我的缺点是爱拖延，自律性较差。我希望今后自己能自律自强，拒绝不良诱惑，管控好自己，不再拖延，尽早完成工作学习任务。也希望我的学习、工作、生活都能蒸蒸日上。最后希望我的选修课Dreamweaer成绩优秀，老师身体康健，开心愉悦！
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+想要了解更多欢迎添加我的QQ：2831491375
+
+这是我的照片![证件照](https://user-images.githubusercontent.com/94985238/143803742-6793c054-520f-4a9f-9f20-b28547860e36.jpg)
